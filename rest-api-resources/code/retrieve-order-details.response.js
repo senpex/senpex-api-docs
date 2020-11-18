@@ -1,0 +1,50 @@
+export default `
+{  
+    "code": "0",  
+    "data": [  
+        {  
+            "id": "12343",  
+            "order_name": "Laptop",  
+            "pack_size_id": "1",  
+            "pack_transport_id": "0",  
+            "pack_from_lat": "37.3786872000000000000000",  
+            "pack_from_lng": "-121.9872550000000000000000",  
+            "pack_from_text": "1000 Kiely Boulevard, Santa Clara, CA 95051, USA",  
+            "taken_asap": "1",  
+            "schedule_date": "2020-05-22 21:04:14",  
+            "distance_miles": "7.54",  
+            "distance_time_seconds": "830.00",  
+            "pack_map_img": null,  
+            "pack_price": "28.95",  
+            "rest_api_vers": "1",  
+            "route_count": "1",  
+            "last_pack_to_lat": "37.3872000000000000000000",  
+            "last_pack_to_lng": "-122.0874060000000000000000",  
+            "last_pack_to_text": "1101 W El Camino Real, Mountain View, CA 94040, USA",  
+            "last_receiver_name": "Peter Parker",  
+            "last_receiver_phone_number": "123983276",  
+            "conn_client_name": "REST API",  
+            "pack_status": "10",  
+            "order_status_text": "Paid order",  
+            "courier_name": “Antony”,  
+            "courier_surname": “Kulkin”,  
+            "courier_cell": "7654321",  
+            "sender_name": "sendername",  
+            "sender_surname": "sendersurname",  
+            "sender_cell": "1234567",  
+            "sender_email": "contact@snpx.com",  
+            "sender_user_id": "5405",  
+            "status_sender": "Paid order",  
+            "item_value": "200.00",  
+            "pack_mailing_status": "1",  
+            "snpx_emails": "1",  
+            "snpx_nots": "1",  
+            "snpx_sms": "0",  
+            "snpx_instant_not": "1",  
+            "instant_not_url": "",  
+            "company_metadata": null,  
+            "pack_bidders": []  
+        }  
+    ] 
+}
+`

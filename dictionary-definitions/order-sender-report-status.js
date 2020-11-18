@@ -1,0 +1,1 @@
+export default `<p>Order Sender can report following types of status on the order.</p>`

@@ -1,0 +1,1 @@
+export default `<p>Instant SNPX notification gives all event updates on the order. The different status available are as follows.</p>`

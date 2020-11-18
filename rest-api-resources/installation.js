@@ -1,0 +1,7 @@
+export default `
+<p>If you are ready to integrate with our API, please send an email to <a href="mailto:contact@senpex.com">contact@senpex.com</a> and include your Client Account - if you don't have one, you can register here <a href="https://web.senpex.com" target="_blank">https://web.senpex.com</a> Once we receive your email, a member of our API Support Team will contact you to get started.</p>
+<p>Once your account is approved, you will be provided with a <code>​client_id</code> ​and <code>secret_id</code>. Additionally, you will need to add your own Google Maps API Key to the dashboard.</p>
+<p>To create your own Google Maps API Key, visit: <a href="https://developers.google.com" target="_blank">https://developers.google.com</a> Create a new account or register with an existing one. After you’re logged in, go to the Products/Cloud and click “Go to console”. Then go to “APIs & Services”/Dashboard/Credentials and click “Create Credentials”/API key. After you created your API key you need to activate the Geocoding API. Go to the “Library” and find the Geocoding API in the “Maps” section. Enable Geocoding API.</p>
+<p>Once you get a Google API key, verify it <a href="https://yougapi.com/tools/google-api-key-checker.php" target="_blank">here</a>. After verification, paste it in Senpex API Dashboard.</p>
+<p>Note! Please, keep these keys secured and do not embed them in any client-side code.</p>
+`

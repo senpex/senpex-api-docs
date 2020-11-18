@@ -1,0 +1,3 @@
+export default `
+<p>The API requires credit card details which must be entered at API Dashboard. Notice, it is by default that Senpex will immediately provide the end user a price that will be expected to be paid for, however, the pricing is not determined by Senpex, rather the vendor is given the freedom to choose their own pricing structure. Thereby, the customer will use client secret keys that will be provided by Senpex, but the end user will have the ability to re-generate the secret keys for safety</p>
+`

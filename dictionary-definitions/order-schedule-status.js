@@ -1,0 +1,1 @@
+export default `<p>Order schedule status can be of type urgent or scheduled</p>`
