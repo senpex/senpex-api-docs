@@ -43,6 +43,12 @@ export default {
             required: false
         },
         {
+            key: 'order_desc',
+            type: 'string',
+            desc: 'Any delivery notes(Usually it is a gate code, apartment number and so on)',
+            required: true
+        }, 
+        {
             key: 'routes',
             type: 'array',
             desc: 'List of routes',
