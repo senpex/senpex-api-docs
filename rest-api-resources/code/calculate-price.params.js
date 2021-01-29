@@ -270,16 +270,6 @@ export default {
             desc: 'The time to cover the distance of the route from pick-up to drop-off location'
         },
         {
-            key: 'tariff_duration_hours',
-            type: 'float',
-            desc: 'Total hours for the delivery'
-        },
-        {
-            key: 'tariff_duration_days',
-            type: 'integer',
-            desc: 'Total days for the delivery'
-        },
-        {
             key: 'expire_mins',
             type: 'integer',
             desc: 'The expiry time of the api token (in minutes) .'
