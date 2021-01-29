@@ -73,6 +73,21 @@ export default {
             required: false
         },
         {
+            key: 'route_desc',
+            type: 'string',
+            desc: 'Usually this field used to pass "apartment number", but also additional notes from customer'
+        },
+        {
+            key: 'rec_name',
+            type: 'string',
+            desc: 'Jonh Conor'
+        },
+        {
+            key: 'rec_phone',
+            type: 'integer',
+            desc: '6501231234'
+        },
+        {
             key: 'routes',
             type: 'array',
             desc: '',
@@ -153,21 +168,6 @@ export default {
             key: 'promo_code_info',
             type: 'string',
             desc: 'Promotion code if applied'
-        },
-        {
-            key: 'route_desc',
-            type: 'string',
-            desc: 'Usually this field used to pass "apartment number", but also additional notes from customer'
-        },
-        {
-            key: 'rec_name',
-            type: 'string',
-            desc: 'Jonh Conor'
-        },
-        {
-            key: 'rec_phone',
-            type: 'integer',
-            desc: '6501231234'
         },
         {
             key: 'company_id',
